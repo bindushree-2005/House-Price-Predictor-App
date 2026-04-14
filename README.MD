@@ -1,6 +1,3 @@
-Author
-
-Bindushree S Y
 
 📌 Project Overview
 
@@ -34,11 +31,23 @@ Carpet Area (sqft)
 Number of Bathrooms
 Number of Balconies
 Location (encoded)
+
 ⚙️ Data Preprocessing
 Removed unwanted symbols (₹, sqft, etc.)
 Converted text data into numeric format
 Handled missing values
 Encoded categorical variables (location)
+
+## 📂 Project Structure
+
+house-price-prediction/
+│
+├── app.py                # Main Streamlit application (UI + model)
+├── small_data.csv        # Cleaned and reduced dataset used for training
+├── requirements.txt      # List of required Python libraries
+├── README.md             # Project documentation
+
+
 
 🚀 How to Run the Project Locally
 1️⃣ Clone the Repository
@@ -86,3 +95,7 @@ This project demonstrates how machine learning can be applied to real-world prob
 ⭐ Acknowledgment
 
 Thanks to open-source libraries and tools that made this project possible.
+
+Author
+Bindushree S Y
+
