@@ -10,19 +10,28 @@ ________________________________________________________________________________
 This project uses Linear Regression, a supervised learning algorithm used for predicting continuous values.
 
 ✔ Why Linear Regression?
+
 Simple and efficient
+
 Suitable for price prediction
+
 Works well with numerical data
+
 Easy to interpret
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 🌐 Web Application
 The app is developed using Streamlit, which provides a fast and user-friendly interface.
 
 ✨ Features
+
 📥 User input for house details
+
 ⚡ Real-time price prediction
+
 📊 Clean and interactive UI
+
 💰 Displays estimated house price instantly
+
 📊 Input Features
 _________________________________________________________________________________________________________________________________________________________________________________________
 The model uses the following inputs:
@@ -40,9 +49,13 @@ Location (encoded)📊 Input Features
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
 ⚙️ Data Preprocessing  
+
 ✔ Cleaned unwanted symbols (₹, sqft)  
+
 ✔ Converted text to numeric values  
+
 ✔ Handled missing data  
+
 ✔ Encoded categorical variables  
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -72,6 +85,7 @@ ________________________________________________________________________________
 🌍 Live Demo:https://house-price-predictor-app-7bjtkk5yg24zcfvkcfr6db.streamlit.app/
 __________________________________________________________________________________________________________________________________________________________________________________________________________
 📂 Project Structure
+
 house-price-prediction/
 │── app.py
 │── house_data.csv
@@ -79,28 +93,42 @@ house-price-prediction/
 │── README.md
 _________________________________________________________________________________________________________________________________________________________________________________________________________
 ✅ Advantages
+
 ✔ Beginner-friendly
+
 ✔ Fast predictions
+
 ✔ Real-world use case
+
 ✔ Interactive UI
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 ⚠️ Limitations
+
 ❗ Accuracy depends on dataset quality
+
 ❗ Limited features
+
 ❗ Basic location encoding
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 🔮 Future Enhancements
+
 🚀 Add more features (floor, furnishing)
+
 🎯 Improve model accuracy
+
 📍 Use dropdown for location
+
 🌍 Enhance UI design
 _________________________________________________________________________________________________________________________________________________________________________________________________________
 🎓 Conclusion
+
 This project demonstrates how machine learning can be applied to real-world problems like house price prediction and how it can be integrated with a web interface for better usability.
 __________________________________________________________________________________________________________________________________________________________________________________________________________
 ⭐ Acknowledgment
+
 Thanks to open-source libraries and tools that made this project possible.
 _________________________________________________________________________________________________________________________________________________________________________________________________________
 Author
+
 Bindushree S Y
 
