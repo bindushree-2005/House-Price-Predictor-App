@@ -57,4 +57,4 @@ if st.button("Predict Price"):
 
     prediction = model.predict(input_data)
 
-    st.success(f"Estimated Price: ₹ {prediction[0]*100000:,.2f}")
+    st.success(f"Predict Price: ₹ {prediction[0]*100000:,.2f}")
