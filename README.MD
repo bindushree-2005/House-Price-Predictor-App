@@ -17,8 +17,8 @@ Simple and efficient
 Suitable for price prediction
 Works well with numerical data
 Easy to interpret
-🌐 Web Application
 
+🌐 Web Application
 The app is developed using Streamlit, which provides a fast and user-friendly interface.
 
 ✨ Features
@@ -43,10 +43,13 @@ Encoded categorical variables (location)
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/house-price-prediction.git
 cd house-price-prediction
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 3️⃣ Run the Application
 streamlit run app.py
+
 4️⃣ Open in Browser
 http://localhost:8501
 
