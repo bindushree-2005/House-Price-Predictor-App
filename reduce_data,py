@@ -1,0 +1,8 @@
+import pandas as pd
+
+data = pd.read_csv("house_data.csv")
+small_data = data.sample(10000)
+
+small_data.to_csv("small_data.csv", index=False)
+
+print("Small dataset created!")
