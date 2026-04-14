@@ -49,7 +49,7 @@ pip install -r requirements.txt
 streamlit run app.py
 4️⃣ Open in Browser
 http://localhost:8501
-🌍 Live Demo
+🌍 Live Demo:https://house-price-predictor-app-7bjtkk5yg24zcfvkcfr6db.streamlit.app/
 
 👉 (Add your Streamlit deployment link here)
 
@@ -59,21 +59,26 @@ house-price-prediction/
 │── house_data.csv
 │── requirements.txt
 │── README.md
+
 ✅ Advantages
 Easy to use
 Fast predictions
 Real-world application
 Beginner-friendly ML project
+
 ⚠️ Limitations
 Accuracy depends on dataset quality
 Limited features used
 Basic encoding for location
+
 🔮 Future Enhancements
 Add more features (floor, furnishing, etc.)
 Improve model accuracy
 Add dropdown for location
 Deploy on cloud for public access
+
 🎓 Conclusion
+
 
 This project demonstrates how machine learning can be applied to real-world problems like house price prediction and how it can be integrated with a web interface for better usability.
 
