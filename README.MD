@@ -39,10 +39,9 @@ Removed unwanted symbols (₹, sqft, etc.)
 Converted text data into numeric format
 Handled missing values
 Encoded categorical variables (location)
+
 🚀 How to Run the Project Locally
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
