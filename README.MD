@@ -49,9 +49,8 @@ pip install -r requirements.txt
 streamlit run app.py
 4️⃣ Open in Browser
 http://localhost:8501
-🌍 Live Demo:https://house-price-predictor-app-7bjtkk5yg24zcfvkcfr6db.streamlit.app/
 
-👉 (Add your Streamlit deployment link here)
+🌍 Live Demo:https://house-price-predictor-app-7bjtkk5yg24zcfvkcfr6db.streamlit.app/
 
 📂 Project Structure
 house-price-prediction/
