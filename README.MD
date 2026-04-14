@@ -71,6 +71,7 @@ house-price-prediction/
 │── README.md
 
 ✅ Advantages
+
 Easy to use
 Fast predictions
 Real-world application
