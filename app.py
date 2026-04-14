@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 st.title("🏠 House Price Prediction App")
 
 # Load dataset
-data = pd.read_csv("house_data.csv").head(10000)
+data = pd.read_csv("small_data.csv")
 
 
 # Clean column names
